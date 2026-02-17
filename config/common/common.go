@@ -9,6 +9,7 @@ import (
 )
 
 const (
+	// fix: 3
 	// SelfPackagePath is the golang path for this package.
 	SelfPackagePath = "github.com/crossplane-contrib/provider-keycloak/config/common"
 
